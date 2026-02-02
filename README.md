@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Come visit my LinkedIn!
+
+https://www.linkedin.com/in/michael-knapman/
+
 <!--
 **michael-knapman/michael-knapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
